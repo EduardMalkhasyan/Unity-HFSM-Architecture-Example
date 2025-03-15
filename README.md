@@ -11,6 +11,7 @@ An example of a hierarchical finite state machine (HFSM) architecture in Unity. 
 - Clean and organized state management.
 - Supports nested states and transitions.
 - Easily extendable for complex behaviors.
+- Flexible for any platform tested (Windows, MacOS, Steam Deck, Android, iOS, WebGL)
 
 ## Plugins
 - [Addressables](https://docs.unity3d.com/Manual/com.unity.addressables.html)
