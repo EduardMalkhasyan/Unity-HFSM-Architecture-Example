@@ -17,7 +17,7 @@ An example of a hierarchical finite state machine (HFSM) architecture in Unity. 
 - [Addressables](https://docs.unity3d.com/Manual/com.unity.addressables.html)
 - [Cinemachine](https://docs.unity3d.com/Packages/com.unity.cinemachine@latest)
 - [UniTask](https://github.com/Cysharp/UniTask)
-- [Zenject](https://github.com/modesttree/Zenject)
+- [Zenject](https://github.com/Mathijs-Bakker/Extenject)
 - [Serializable Dictionary (Self Made)](https://github.com/EduardMalkhasyan/Serializable-Dictionary-Unity)
 - [Savable Scriptable Objects (Self Made)](https://github.com/EduardMalkhasyan/Savable-ScriptableObjects-Unity)
 - Simple Localization (Self Made)
