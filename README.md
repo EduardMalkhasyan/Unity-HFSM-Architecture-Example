@@ -24,9 +24,4 @@ An example of a hierarchical finite state machine (HFSM) architecture in Unity. 
 ## For You
 Feel free to use any plugin you find in the self-made section of Plugins. Also, take a look at the `Scripts -> Project Tools` and `Scripts -> Extension Methods` sections — there you can find a lot of useful stuff for you.
 
-## License
-This project is licensed under the MIT License.
-
----
-Battle tested and ready to use. Happy coding!
 
