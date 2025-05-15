@@ -28,7 +28,7 @@ Feel free to use any plugin you find in the self-made section of Plugins. Also, 
 
 ## Full Diagram 
 
-AbstractGameAudioSource
+`AbstractGameAudioSource
 AbstractMainGameState
 AbstractPlayerGameState
 AddressableLoader
@@ -610,7 +610,7 @@ VirtualCameraType
 VolumeExtensions
 WaitLoadingSpinnerDots
 Wrappers
-└── UnityObjectWrapper
+└── UnityObjectWrapper`
 
 
 
